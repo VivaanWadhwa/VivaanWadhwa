@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VivaanWadhwa
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in AI and ML
+- 🌱 I’m currently learning C and C++
 
-I am an incoming freshman at University of British Columbia. I am majoring in Computer Science. I am hoping to collaborate with like-minded peers on hackathons and projects. 
+I am a second-year student at the University of British Columbia majoring in Statistics. I am eager to engage in collaborative hackathons and projects with fellow students who share similar interests.
 
 Contact me @ wadhwa.vivaan@outlook.com
 
