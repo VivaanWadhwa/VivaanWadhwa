@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VivaanWadhwa
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning JavaScript
 
-I am a second-year student at the University of British Columbia majoring in Statistics. I am eager to engage in collaborative hackathons and projects with fellow students who share similar interests.
+I am a third-year student at the University of British Columbia majoring in Computer Science & Statistics. I am eager to engage in collaborative hackathons and projects with fellow students who share similar interests.
 
 Contact me @ wadhwa.vivaan@outlook.com
 
