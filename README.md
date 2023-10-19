@@ -1,10 +1,19 @@
 - 👋 Hi, I’m @VivaanWadhwa
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & TypeScript
+- 🖥️ See my portfolio <a href = "https://www.vivaanwadhwa.github.io">here</a>
+- 🚀 Currently working on <a href = "https://github.com/kashish1928/Real_estate_analysis">Real Estate Price Predictor</a> and <a href = "https://github.com/VivaanWadhwa/Budget_Manager"> Budget Manager</a>
 
 I am a third-year student at the University of British Columbia majoring in Computer Science & Statistics. I am eager to engage in collaborative hackathons and projects with fellow students who share similar interests.
 
-Contact me @ wadhwa.vivaan@outlook.com
+Contact me here!
+
+<p align="left">
+ <a href = "https://www.linkedin.com/in/vivaanwadhwa/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a>
+ <a href="https://www.instagram.com/vivaanwadhwa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+ <a href="https://twitter.com/vivaan_wadhwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href = "mailto:vivaanw@student.ubc.ca" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36915004/202095509-7550beba-960e-48e5-99fb-47256549f154.png" width="32" height="32"/></a>
+</p>
 
 
 
