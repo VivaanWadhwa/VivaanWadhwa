@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VivaanWadhwa
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning JavaScript & TypeScript
-- 🖥️ See my portfolio <a href = "[https://www.vivaanwadhwa.github.io](https://vivaanwadhwa.github.io)">here</a>
+- 🖥️ See my portfolio <a href = "https://www.vivaanwadhwa.github.io">here</a>
 - 🚀 Currently working on <a href = "https://github.com/VivaanWadhwa/Budget_Manager"> Budget Manager</a>
 
 I am a third-year student at the University of British Columbia majoring in Computer Science & Statistics. I am eager to engage in collaborative hackathons and projects with fellow students who share similar interests.
