@@ -2,9 +2,9 @@
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning JavaScript & TypeScript
 - 🖥️ See my portfolio <a href = "https://vivaanwadhwa.github.io">here</a>
-- 🚀 Currently working on <a href = "https://github.com/VivaanWadhwa/Budget_Manager"> Budget Manager</a>
+- 🚀 Currently working on a <a href = "https://github.com/VivaanWadhwa/Card-Game"> Card Game</a>
 
-I am a third-year student at the University of British Columbia majoring in Computer Science & Statistics. I am eager to engage in collaborative hackathons and projects with fellow students who share similar interests.
+I am a fourth-year student at the University of British Columbia majoring in Computer Science & Statistics. I am eager to engage in collaborative hackathons and projects with fellow students who share similar interests.
 
 Contact me here!
 
