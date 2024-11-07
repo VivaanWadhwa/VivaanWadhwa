@@ -17,8 +17,8 @@ Contact me here!
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivaanwadhwa&show_icons=true&locale=en&theme=tokyonight" alt="apramm" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=vivaanwadhwa)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivaanwadhwa&show_icons=true&locale=en&theme=tokyonight" alt="vivaanwadhwa" /></p>
+
 
 <!---
 VivaanWadhwa/VivaanWadhwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
