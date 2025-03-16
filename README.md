@@ -2,7 +2,7 @@
 
 I am a fourth-year student at the University of British Columbia majoring in Computer Science & Statistics. I am eager to engage in collaborative hackathons and projects with fellow students who share similar interests.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivaanwadhwa)](https://git.io/streak-stats)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vivzypitzy)
 
